@@ -3,8 +3,9 @@
 ![Badge tracking repo size](https://img.shields.io/github/repo-size/Preffet/Shellcode-Obfuscator?color=%23013987)
 
 -----------------------------------------------------------------------------
+<img width="966" alt="Screen Shot 2023-05-27 at 12 45 48" src="https://github.com/Preffet/Shellcode-Obfuscator/assets/84241003/dc4d368c-bad8-43db-bff2-ecb2e3581ef0">
 
-![updated]([https://user-images.githubusercontent.com/84241003/178457017-7126a06b-e0c1-484e-b0a8-c94b7f98ab2b.gif](https://github.com/Preffet/Shell-Code-Obfuscator/assets/84241003/3a8dfc10-b4f9-4387-adf8-98dfee283a83))
+
 
 -----------------------------------------------------------------------------
 
